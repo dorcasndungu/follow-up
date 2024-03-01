@@ -1,19 +1,14 @@
 import { follow_up_backend } from "../../declarations/follow_up_backend";
 
-document.querySelector("form").addEventListener("submit", async (e) => {
-  e.preventDefault();
-  const button = e.target.querySelector("button");
+function searchCases() {
+  // Implement search functionality here
+  var searchTerm = document.getElementById('searchInput').value;
+  console.log('Searching for cases with term:', searchTerm);
+  // Add logic to filter and display search results
+}
 
-  const name = document.getElementById("name").value.toString();
-
-  button.setAttribute("disabled", true);
-
-  // Interact with foo actor, calling the greet method
-  const greeting = await follow_up_backend.greet(name);
-
-  button.removeAttribute("disabled");
-
-  document.getElementById("greeting").innerText = greeting;
-
-  return false;
-});
+function viewDetails(caseId) {
+  // Implement case details view functionality here
+  console.log('Viewing details for case ID:', caseId);
+  // Add logic to display detailed information about the selected case
+}
