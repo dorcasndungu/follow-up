@@ -6,6 +6,7 @@ Wireframes
 ![WhatsApp Image 2024-02-26 at 10 47 00 PM](https://github.com/dorcasndungu/public_eye/assets/93251516/fc27f52f-ccf0-4404-94dc-4231ebbda16f)
 ![WhatsApp Image 2024-02-26 at 10 47 01 PM](https://github.com/dorcasndungu/public_eye/assets/93251516/05acffa0-4644-4356-9f57-d99ba9bc0c5b)
 ![WhatsApp Image 2024-02-26 at 10 47 02 PM](https://github.com/dorcasndungu/public_eye/assets/93251516/8e0da235-af7f-4ea7-89cd-c0fa297640d4)
+![WhatsApp Image 2024-06-02 at 11 59 57 PM](https://github.com/dorcasndungu/public_eye/assets/93251516/b0b2e89d-430b-4861-a803-708249a080f3)
 
 
 If you want to start working on your project right away, you might want to try the following commands:
